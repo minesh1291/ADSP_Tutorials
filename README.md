@@ -154,7 +154,7 @@
   
   
  # YouTube Playlist
- [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6)
+ [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) [![Join the chat at https://gitter.im/Advanced-DSP/community](https://badges.gitter.im/Advanced-DSP/community.svg)](https://gitter.im/Advanced-DSP/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
 # Requirements
 Please check the following files at the 'binder' folder:
